@@ -88,4 +88,4 @@ To replicate this project:
    ```
 
 ## Contact
-Let me know ifany clarification is needed on this README or project!
+Let me know if any clarification is needed on this README or project!
